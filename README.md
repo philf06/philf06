@@ -1,16 +1,18 @@
-## Hi there 👋
+## Phil Finane
 
-<!--
-**philf06/philf06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Twenty-five years in recruitment. I now build the tools I spent that career wishing existed.
 
-Here are some ideas to get you started:
+**MonardX** ([monardx.com](https://monardx.com)) is a live suite of AI-powered jobseeker tools. I designed, built, and run it solo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CV Optimiser: job alignment, ATS enhancement, cover letters
+- Interview Prep Suite: STAR, CAR, PAR, SHARE and SOAR frameworks
+- LinkedIn Optimiser
+- Salary Benchmark
+- AI Jargon Buster: plain-English glossary and news feed
+- Career Corner chatbot
+
+**Stack:** Python, Flask, PostgreSQL, Stripe, OpenRouter. Deployed on Replit Autoscale. Everything transient by design, no user content stored beyond an email address.
+
+I also wrote *When the Ground Shifts*, a book on job searching after AI Job Displacement / Redundancy, and I am currently writing the second follow up book.
+
+Based in Cork, Ireland.
