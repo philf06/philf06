@@ -15,6 +15,6 @@ Twenty-five years in recruitment. I now build the tools I spent that career wish
 
 The MonardX codebase is private. Happy to grant read access to a named reviewer, or walk through it live.
 
-I also wrote and published a book ([*When the Ground Shifts*](https://monardx.com/books/when-the-ground-shifts)) , a book on job searching after AI Job Displacement / Redundancy, and I am currently writing the second follow up book.
+I also wrote and published [*When the Ground Shifts*](https://monardx.com/books/when-the-ground-shifts), on job searching after AI displacement or redundancy. The follow-up is in progress.
 
 Based in Cork, Ireland.
