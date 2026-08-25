@@ -13,6 +13,8 @@ Twenty-five years in recruitment. I now build the tools I spent that career wish
 
 **Stack:** Python, Flask, PostgreSQL, Stripe, OpenRouter. Deployed on Replit Autoscale. Everything transient by design, no user content stored beyond an email address.
 
+The MonardX codebase is private. Happy to grant read access to a named reviewer, or walk through it live.
+
 I also wrote *When the Ground Shifts*, a book on job searching after AI Job Displacement / Redundancy, and I am currently writing the second follow up book.
 
 Based in Cork, Ireland.
